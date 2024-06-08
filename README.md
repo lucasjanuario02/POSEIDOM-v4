@@ -2,69 +2,65 @@
 
 ---
 
-**Description:**
-ETH-DIAMOND v1 is an initial implementation of an Ethereum-based blockchain focusing on the tokenization of digital assets, specifically diamonds. This version presents a basic set of functionalities to create, transfer, and verify ownership of tokens representing diamonds on the Ethereum blockchain.
+**POSEIDOM v4 - Tokenização de Diamantes na Blockchain Ethereum**
 
----
+**Descrição:**
+POSEIDOM v4 é uma plataforma de tokenização de diamantes baseada na blockchain Ethereum. Essa aplicação permite a criação, transferência e verificação de propriedade de tokens que representam diamantes na rede Ethereum. Esta versão inicial apresenta um conjunto básico de funcionalidades para iniciar a tokenização de ativos digitais.
 
-**Prerequisites:**
-- Node.js installed on your machine
-- Ethereum client, such as Geth or Parity, configured and synchronized with the Ethereum network
-- Basic knowledge of Solidity for Ethereum smart contracts
-- Internet connection to interact with the Ethereum network
+**Funcionalidades Principais:**
+- Criação de tokens de diamante na blockchain Ethereum.
+- Transferência de tokens entre contas.
+- Verificação de propriedade de tokens.
 
----
+**Pré-requisitos:**
+- Node.js instalado na sua máquina.
+- Cliente Ethereum (Geth, Parity, etc.) configurado e sincronizado com a rede Ethereum.
+- Conhecimento básico de Solidity para contratos inteligentes Ethereum.
+- Conexão à internet para interagir com a rede Ethereum.
 
-**Usage Instructions:**
+**Instruções de Uso:**
 
-1. **Cloning the Repository:**
-   Clone this repository to your local environment:
-
+1. **Clonando o Repositório:**
    ```
-   git clone https://github.com/your-username/eth-diamond-v1.git
+   git clone https://github.com/seu-usuario/poseidom-v4.git
    ```
 
-2. **Installing Dependencies:**
-   Navigate to the cloned project directory and install Node.js dependencies:
-
+2. **Instalando Dependências:**
    ```
-   cd eth-diamond-v1
+   cd poseidom-v4
    npm install
    ```
 
-3. **Configuring the Ethereum Network:**
-   - Ensure your Ethereum client is running and synced with the Ethereum network.
-   - Configure environment variables in the `.env` file with your Ethereum network details (host, port, default account, etc.).
+3. **Configurando a Rede Ethereum:**
+   - Garanta que seu cliente Ethereum esteja em execução e sincronizado.
+   - Configure as variáveis de ambiente no arquivo `.env` com os detalhes da sua rede Ethereum.
 
-4. **Deploying the Smart Contract:**
-   - Compile and deploy the `DiamondToken.sol` smart contract on your Ethereum network. You can use tools like Truffle or Remix for this purpose.
-   - After deploying the contract, update the contract address in the `config.js` file.
+4. **Implantando o Contrato Inteligente:**
+   - Compile e implante o contrato inteligente `DiamondToken.sol` em sua rede Ethereum.
+   - Após a implantação, atualize o endereço do contrato no arquivo `config.js`.
 
-5. **Running the Application:**
-   Start the Node.js application:
-
+5. **Executando a Aplicação:**
    ```
    npm start
    ```
 
-6. **Interacting with ETH-DIAMOND:**
-   - Use the provided REST API endpoints to create new diamond tokens, transfer tokens between accounts, and verify token ownership.
-   - Diamond tokens are represented as ERC-20 assets on the Ethereum blockchain.
+6. **Interagindo com a POSEIDOM:**
+   - Utilize os endpoints da API REST para criar, transferir e verificar a propriedade dos tokens de diamante.
+   - Os tokens de diamante são representados como ativos ERC-20 na blockchain Ethereum.
+
+**Contribuição:**
+Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações de pull para melhorias, correções de bugs ou novos recursos.
+
+**Licença:**
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+**Autor:**
+Conheça mais sobre o autor [aqui](https://nscio.vercel.app/).
+
+**Aviso Legal:**
+Este projeto destina-se apenas a fins educacionais e de demonstração. Não deve ser usado em ambientes de produção sem uma revisão e teste adequados. A implementação inicial fornecida pode não ser adequada para todos os casos de uso e pode exigir ajustes significativos para atender a requisitos específicos.
+
+![POSEIDOM Logo](logo.png)
 
 ---
 
-**Contribution:**
-Contributions are welcome! Feel free to submit pull requests for enhancements, bug fixes, or new features.
-
-**License:**
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-**Author:**
-(https://nscio.vercel.app/)
-
----
-
-**Legal Notice:**
-This project is for educational and demonstration purposes only. It should not be used in production environments without proper review and testing. The initial implementation provided may not be suitable for all use cases and may require significant adjustments to meet specific requirements.
-<img src="ux.png">
-<img src="logo.png">
