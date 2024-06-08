@@ -1,4 +1,3 @@
-Entendi! Se você estiver usando a blockchain Iron Bear em vez da Ethereum, podemos ajustar o README para refletir isso. Aqui está uma versão atualizada do README com essa informação:
 
 🔱**POSEIDOM v4 - Tokenização de Diamantes na Blockchain Iron Bear**🔱
 
