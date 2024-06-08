@@ -1,4 +1,4 @@
-#🔱# ETH-DIAMOND v1#🔱#
+🔱#ETH-DIAMOND v1🔱
 
 ---
 
