@@ -35,7 +35,7 @@
             },
             "api": {
                 "path": "Path",
-                "httpMethod": "Method",
+                "httpMethod": "Method"docker run -d -p 80:80 docker/getting-started,
                 "payload": {
                     "json": {}
                 }
