@@ -72,30 +72,6 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 - **Scalability:** Optimized for high performance, supporting a larger number of transactions per second.
 - **Interoperability:** Seamless integration with other blockchain networks and services.
 
-### Usage Instructions for Horigami FX Integration:
-
-1. **Updating the Repository:**
-   ```sh
-   git pull origin main
-   ```
-
-2. **Installing Horigami FX Dependencies:**
-   ```sh
-   cd poseidom-v4
-   npm install horigami-fx
-   ```
-
-3. **Configuring Horigami FX:**
-   - Update the `config.js` file with Horigami FX specific configurations.
-   - Ensure that the Horigami FX environment variables are set in the `.env` file.
-
-4. **Deploying Horigami FX Components:**
-   - Deploy the Horigami FX smart contracts and update the contract addresses in the `config.js` file.
-
-5. **Running the Enhanced Application:**
-   ```sh
-   npm start
-   ```
 
 6. **Interacting with POSEIDOM Enhanced by Horigami FX:**
    - Utilize the new REST API endpoints provided by Horigami FX for advanced token management.
