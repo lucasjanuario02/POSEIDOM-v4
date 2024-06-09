@@ -20,7 +20,7 @@ POSEIDOM v4 is a diamond tokenization platform based on the Iron Bear v3 blockch
 
 1. **Cloning the Repository:**
    ```sh
-   git clone https://github.com/your-username/poseidom-v4.git
+   git clone https://github.com/your-username/POSEIDOM-v4.git
    ```
 
 2. **Installing Dependencies:**
