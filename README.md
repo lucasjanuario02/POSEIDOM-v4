@@ -57,7 +57,7 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 - **Enhanced Security Protocols:** State-of-the-art security measures to protect token transactions and ownership.
 - **Scalability:** Optimized for high performance, supporting a larger number of transactions per second.
 - **Interoperability:** Seamless integration with other blockchain networks and services.
-!horigami Logo](project.png)
+  <img src="project.png" />
 ### Usage Instructions for Horigami FX Integration:
 
 1. **Updating the Repository:**
