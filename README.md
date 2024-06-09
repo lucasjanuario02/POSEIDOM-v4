@@ -1,4 +1,4 @@
-# 🔱 POSEIDOM v4 -  Blockchain poseidom - Iron Bear v4  🔱
+# 🔱 POSEIDOM v4 -  Blockchain poseidom  🔱
 
 ---
 
