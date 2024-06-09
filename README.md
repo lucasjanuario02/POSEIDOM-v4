@@ -1,4 +1,4 @@
-# 🔱 POSEIDOM v4 - Blockchain Poseidom 🔱
+# 🔱 POSEIDOM v4 - Blockchain  🔱
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
