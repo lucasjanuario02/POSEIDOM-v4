@@ -71,34 +71,9 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 - **Enhanced Security Protocols:** State-of-the-art security measures to protect token transactions and ownership.
 - **Scalability:** Optimized for high performance, supporting a larger number of transactions per second.
 - **Interoperability:** Seamless integration with other blockchain networks and services.
-  <img src="project.png" />
 
 ### Usage Instructions for Horigami FX Integration:
-## Introducing Horigami's Investment Education Program
 
-At Horigami, we believe in empowering our clients with knowledge to make informed investment decisions. Our Investment Education Program is designed to provide you with comprehensive insights into the world of finance and investment strategies. Let's delve into the key areas covered in our program:
-
-### Personalized Sector-Specific Investment Strategies
-Gain an understanding of how different sectors influence investment opportunities and learn how to tailor your investment strategies to maximize returns and minimize risk.
-
-### Token-Based Investment Offerings Demystified
-Explore the world of token-based investments, including TES, NBH, POSH, and ISH. Understand how these tokens represent diverse assets and discover their role in private fund investments.
-
-### Exclusive Q-Flex Assets Unveiled
-Unlock the potential of Q-Flex assets with exclusive insights into Horigami's cutting-edge technology. Learn about the bureaucratic frameworks supporting Q-Flex investments and their availability to our discerning clients.
-
-### AI's Role in Currency Management Demystified
-Discover how Artificial Intelligence revolutionizes currency management. Explore predictive analytics, real-time market analysis, risk management, and automated trading powered by AI algorithms.
-
-### Client-Specific Strategies Tailored
-Understand the importance of personalized investment strategies aligned with your unique goals and risk tolerance. Learn how our AI-driven systems customize strategies to meet your individual needs.
-
-### Continuous Learning and Improvement
-Stay ahead of the curve with insights into the latest advancements in AI technology. Explore how Horigami continuously updates and refines its AI systems to deliver cutting-edge currency management strategies.
-
-Enroll in Horigami's Investment Education Program today and embark on a journey towards financial literacy and investment success!
-
-#Horigami #InvestmentEducation #FinancialLiteracy #AI #CurrencyManagement #InvestmentStrategies
 1. **Updating the Repository:**
    ```sh
    git pull origin main
@@ -126,6 +101,13 @@ Enroll in Horigami's Investment Education Program today and embark on a journey 
    - Utilize the new REST API endpoints provided by Horigami FX for advanced token management.
    - Explore the enhanced features and improved performance of the platform.
 
+### Horigami FX App Development:
+
+While POSEIDOM will be utilized within the Horigami ecosystem, it is important to note that the Horigami FX app is still in development. This app aims to bring advanced tokenization mechanics and AI-powered features to users, making blockchain interactions more efficient and secure. The Horigami FX app will be available on:
+
+![Apple Store](https://img.shields.io/badge/apple_store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Google Play Store](https://img.shields.io/badge/google_play-%230078D4.svg?style=for-the-badge&logo=google-play&logoColor=white)
+
 ## Contribution:
 Contributions are welcome! Feel free to submit pull requests for improvements, bug fixes, or new features.
 
@@ -136,7 +118,8 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 Learn more about the author [here](https://nscio.vercel.app/).
 
 ## Legal Disclaimer:
-"This project is private for use in studys and only nsc projects coporations "
+"This project is private for use in studies and only for NSC projects corporations."
+
 ![POSEIDOM Logo](logo4.png)
 
 ---
