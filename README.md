@@ -1,6 +1,10 @@
-Sure, I can help with that. Below is an extended README with a section for the "Horigami FX" engine.
-
 # 🔱 POSEIDOM v4 - Blockchain Poseidom 🔱
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -58,6 +62,7 @@ We are excited to announce the integration of the Horigami FX engine into the PO
 - **Scalability:** Optimized for high performance, supporting a larger number of transactions per second.
 - **Interoperability:** Seamless integration with other blockchain networks and services.
   <img src="project.png" />
+
 ### Usage Instructions for Horigami FX Integration:
 
 1. **Updating the Repository:**
