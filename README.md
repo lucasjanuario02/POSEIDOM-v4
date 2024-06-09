@@ -136,8 +136,7 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 Learn more about the author [here](https://nscio.vercel.app/).
 
 ## Legal Disclaimer:
-This project is intended for educational and demonstration purposes only. It should not be used in production environments without proper review and testing. The provided initial implementation may not be suitable for all use cases and may require significant adjustments to meet specific requirements.
-
+"This project is private for use in studys and only nsc projects coporations "
 ![POSEIDOM Logo](logo4.png)
 
 ---
