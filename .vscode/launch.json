@@ -4,6 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        {
+            "name": "C#: <project-name> Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+        },
+
     
         {
             "type": "rdbg",
@@ -35,7 +42,7 @@
             },
             "api": {
                 "path": "Path",
-                "httpMethod": "Method"docker run -d -p 80:80 docker/getting-started,
+            
                 "payload": {
                     "json": {}
                 }
@@ -52,7 +59,7 @@
             },
             "api": {
                 "path": "Path",
-                "httpMethod": "Method",
+                "httpMethod": "Method"
                 "payload": {
                     "json": {}
                 }
