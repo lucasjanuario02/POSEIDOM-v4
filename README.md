@@ -104,7 +104,7 @@ Learn more about the author [here](https://nscio.vercel.app/).
 ## Legal Disclaimer:
 This project is intended for educational and demonstration purposes only. It should not be used in production environments without proper review and testing. The provided initial implementation may not be suitable for all use cases and may require significant adjustments to meet specific requirements.
 
-![POSEIDOM Logo](logo.jpg)
+![POSEIDOM Logo](logo1.jpg)
 
 ---
 
